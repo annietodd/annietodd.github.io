@@ -1,0 +1,29 @@
+/* This is a css comment*/
+
+body {color: skyblue;
+      font-family: 'Arvo', serif;
+}
+
+h1 {color: aquamarine;
+  font-size: 64px;
+  font-weight: "bold";
+}
+
+h2 {color: steelblue;
+  text-align: 'center';
+  font-size: 32px;
+  font-family: 'Nunito Sans', sans-serif;;
+}
+
+i {color: mistyrose;
+  text-decoration: underline;
+  font-size: 18px;
+}
+
+p{font-size: 16px
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+img {max-width: 600px;
+     max-height: auto;
+}
