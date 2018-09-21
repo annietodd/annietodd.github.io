@@ -1,0 +1,58 @@
+/*--
+  Fonts:
+    font-family: 'Arvo', serif; (use for paragraphs)
+    font-family: 'Work Sans', sans-serif; (use for headlines)
+
+  Colors:
+    black (text)
+    steelblue (links)
+    white (background)
+
+  Links:
+  --*/
+
+  /*Global Styles */
+
+  html {
+    box-sizing: "border-box";
+  }
+  * {
+    box-sizing: "inherit";
+}
+
+body {
+  font-family: 'Notable', sans-serif;
+  font-size: 18px;
+  color: black;
+  line-height: 1.5;
+  background-color: white;
+}
+
+header {
+  background-color: orange;
+  text-align: 'center';
+}
+
+.display {
+  font-size: 68px;
+  font-family: 'Work Sans', sans-serif;
+  color: white;
+  line-height: 1.2;
+  padding: 20px 20px 10px 20px /* Top Right Bottom Left */
+}
+
+.summary {
+  font-size: 32px;
+  font-family: 'Work Sans', sans-serif;
+  color: white;
+  line-height: 1.2;
+  padding: 20px 20px 10px 20px
+}
+
+#byline {
+  font-size: 14px;
+  font-family: 'Notable', sans-serif;
+  color: white;
+  text-transform: uppercase;
+  padding: 20px 20px 10px 20px
+}
