@@ -23,7 +23,7 @@ body {
   color: black;
   line-height: 1.5;
   background-color: white;
-  text-align: 'left';
+  text-align: left;
 }
 
 li {
@@ -38,8 +38,8 @@ h1, h2, h3, .summary, #byline, figcaption, blockquote {
 
 h1 {
   font-size: 64px;
-  text-align: 'center';
-  font-style: 'normal';
+  font-style: normal;
+  text-align: center;
   font-weight: 700;
   line-height: 1.3;
   padding: 10px 15px;
