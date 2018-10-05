@@ -158,3 +158,9 @@ img {
   max-width: 100%;
   height: 'auto';
 }
+
+.column{
+  float:left;
+  width: 50%;
+  padding:5px;
+}
